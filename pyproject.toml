@@ -1,7 +1,7 @@
 [project]
 name = "openai-agents"
 version = "0.4.2"
-description = "OpenAI Agents SDK"
+description = "A lightweight framework for building multi-agent workflows with support for OpenAI and 100+ other LLMs"
 readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"
